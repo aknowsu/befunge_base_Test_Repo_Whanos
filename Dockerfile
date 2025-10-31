@@ -1,4 +1,4 @@
-FROM debian:bookworm
+FROM whanos-befunge
 
 SHELL [ "/bin/bash", "-c" ]
 
